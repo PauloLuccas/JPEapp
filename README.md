@@ -1,7 +1,6 @@
 <h1 align="center">
   App JPE (Jornada para o Primeiro Emprego)
 </h1>
-![logo](https://user-images.githubusercontent.com/45687654/104857450-70595080-58f7-11eb-92d4-a9945c1ed178.png)
 
 # 🔖 Sumário
 
