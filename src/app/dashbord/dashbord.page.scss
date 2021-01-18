@@ -1,0 +1,113 @@
+h2.title {
+    font-size: 22px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+ion-col.vPerfil,
+ion-col.vRecentes {
+    margin-left: -.5rem;
+}
+
+ion-col.vPerfil a {
+    font-size: 14px;
+    margin-left: 5rem;
+}
+
+ion-col.fundo1,
+ion-col.fundo2,
+.fRecente ion-row{
+    border: 2px solid #5a58584b;
+    border-radius: 4px;
+}
+
+ion-col.fundo1 {
+    margin-right: .5rem;
+}
+
+ion-col.fundo2 {
+    margin-left: .5rem;
+}
+
+ion-col.nvaga p {
+    font-size: 14px;
+    margin-top: -.2rem;
+}
+
+ion-col.salario,
+div.sVaga {
+    font-size: 12px;
+    color: rgb(71, 68, 68);
+}
+
+ion-col.salario {
+    margin-top: -1.15rem;
+}
+
+ion-col.estado p,
+div.lVaga {
+    font-size: 12px;
+    color: rgb(110, 110, 110);
+}
+
+ion-col.estado p {
+    margin-top: -.5rem;
+}
+
+ion-col.button ion-button,
+div.rButton ion-button{
+    font-size: 12px;
+}
+
+ion-col.button ion-button{
+    margin-top: -.9rem;
+}
+
+/*Vagas Recentes*/
+ion-col.vRecentes h3 {
+    margin-top: 1.5rem;
+}
+
+ion-col.vRecentes a {
+    font-size: 14px;
+    margin-left: 9rem;
+}
+
+div.nEmpresa {
+    font-size: 14px;
+    margin-top: -.9rem;
+}
+
+div.sVaga {
+    margin-top: -.6rem ;
+}
+
+div.lVaga {
+    margin-top: -.61rem;
+}
+
+div.rButton {
+    margin-top: .5rem;
+    margin-left: 3rem;
+}
+
+ion-row.pRow,
+ion-row.sRow,
+ion-row.tRow {
+    padding-top: .7rem;
+}
+
+ion-row.pRow {
+    margin-top: -1.6rem;
+}
+
+ion-row.sRow {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+ion-footer {
+    text-align: center;
+}

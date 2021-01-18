@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-self: center;
+
+    height: 50%;
+}
+
+ion-button {
+    margin-left: 2rem;
+    margin-right: 2rem;
+    border-radius: 2rem;
+
+    border: 2px solid #000 !important;
+}
+
+ion-footer {
+    text-align: center;
+    color: rgba(0, 0, 0, 0.438);
+}

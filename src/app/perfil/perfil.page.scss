@@ -1,0 +1,75 @@
+h1.title {
+    font-size: 22px;
+    text-align: center;
+}
+
+ion-col.escolaridade p {
+    margin-top: -.5rem;
+}
+
+.curriculo ion-button {
+    margin-top: -.2rem;
+}
+
+ion-col.vPerfil,
+ion-col.vRecentes {
+    margin-left: -.5rem;
+}
+
+ion-col.vPerfil a {
+    font-size: 14px;
+    margin-left: 5rem;
+}
+
+ion-col.fundo1,
+ion-col.fundo2,
+.fRecente ion-row{
+    border: 2px solid #5a58584b;
+    border-radius: 4px;
+}
+
+ion-col.fundo1 {
+    margin-right: .5rem;
+}
+
+ion-col.fundo2 {
+    margin-left: .5rem;
+}
+
+ion-col.nvaga p {
+    font-size: 14px;
+    margin-top: -.2rem;
+}
+
+ion-col.salario,
+div.sVaga {
+    font-size: 12px;
+    color: rgb(71, 68, 68);
+}
+
+ion-col.salario {
+    margin-top: -1.15rem;
+}
+
+ion-col.estado p,
+div.lVaga {
+    font-size: 12px;
+    color: rgb(110, 110, 110);
+}
+
+ion-col.estado p {
+    margin-top: -.5rem;
+}
+
+ion-col.button ion-button,
+div.rButton ion-button{
+    font-size: 12px;
+}
+
+ion-col.button ion-button{
+    margin-top: -.9rem;
+}
+
+ion-footer {
+    text-align: center;
+}
