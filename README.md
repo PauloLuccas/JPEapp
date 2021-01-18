@@ -43,7 +43,7 @@ Abra o terminal do seu sistema operacional e execute os seguintes comandos:
   git clone https://github.com/PauloLuccas/JPEapp.git
 
   # Entrar no diretório
-  cd Trigg
+  cd JPEapp
 
   # Instalar as dependências
   npm install
