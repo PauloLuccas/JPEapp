@@ -16,7 +16,7 @@
 
 ## 🏷️ Sobre
 
-O projeto **App JPE** foi feito para a maratona do Hackathon CCR, que tinha por objetivo criar uma tecnologia para inserir o público jovem com toda a sua diversidade no mercado de trabalho.
+O projeto **App JPE** foi feito para a maratona do Hackathon CCR, que tinha por objetivo criar uma tecnologia para inserir o público jovem sem experiência no mercado de trabalho.
 
 ## 🚀 Tecnologias utilizadas
 
